@@ -4,11 +4,11 @@
 //資料庫位置
 $db_server = "localhost";
 //資料庫名稱
-$db_name = "105021061";
+$db_name = "105021061_";
 //資料庫管理者帳號
-$db_user = "a870103";
+$db_user = "105021061";
 //資料庫管理者密碼
-$db_passwd = "1234";
+$db_passwd = "#oyagO3xl";
 
 //對資料庫連線
 if(!@mysql_connect($db_server, $db_user, $db_passwd))
